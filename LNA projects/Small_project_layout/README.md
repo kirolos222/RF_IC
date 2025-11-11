@@ -9,3 +9,5 @@ input match (S11 @ 16Ghz) :
 
 output match (S22 @ 16Ghz):
 
+<img width="978" height="655" alt="image" src="https://github.com/user-attachments/assets/b3acd936-4c22-445e-b23f-143779df4bfb" />
+
