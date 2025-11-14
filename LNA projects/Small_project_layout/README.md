@@ -28,12 +28,12 @@ output match after PEX  (S22 @ 16Ghz):
 <img width="1003" height="630" alt="image" src="https://github.com/user-attachments/assets/e92e089b-b634-43bc-a3db-71607e8b83ed" />
 
 
-## inductor and capacitor EMING :
-
-
 
 Gain  after PEX  @ 16Ghz :
 
 <img width="987" height="812" alt="image" src="https://github.com/user-attachments/assets/59b7ad68-6370-4a03-9dff-594b17c49fae" />
+
+
+## inductor and capacitor EMING :
 
 
