@@ -36,4 +36,6 @@ Gain  after PEX  @ 16Ghz :
 
 ## inductor and capacitor EMING :
 
+<img width="836" height="557" alt="image" src="https://github.com/user-attachments/assets/6739b8bc-e7c4-4cda-98d3-d1db34b91574" />
+
 
